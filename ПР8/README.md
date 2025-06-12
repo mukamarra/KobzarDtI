@@ -4,7 +4,7 @@
 **Кобзар Назар**  
 **Група: ІПЗ-2.03**  
 
-[Посилання на проект в Фігма](https://www.figma.com/design/KRtbqlvCoZoCbdadmrim6k/Untitled?node-id=0-1&t=mGmwQncPCAN5oC8u-1)
+[Посилання на проект в Фігма](https://www.figma.com/design/R2s1Uc2BYfuBwwqYhLDT5E/Untitled?node-id=0-1&t=bHMQOCHv2y1c3nPA-1)
 
 Результат:
 
