@@ -1,17 +1,19 @@
-# Практична №5
+# Практична №6
 
 ## Виконав:  
 **Кобзар Назар**  
 **Група: ІПЗ-2.03**  
 
-[Посилання на проект в Фігма](https://www.figma.com/design/KRtbqlvCoZoCbdadmrim6k/Untitled?node-id=0-1&t=mGmwQncPCAN5oC8u-1)
+[Посилання на проект в Фігма](https://www.figma.com/design/2eitdcB83i5VscufX6sMfi/Untitled?node-id=0-1&t=phj323UPbon0Kr0m-1)
 
 Результат:
 
-![{872B0A42-686F-4214-8952-44025F3B00DE}](https://github.com/user-attachments/assets/d7063c98-098b-47be-83ae-3ec096c23000)
+![image](https://github.com/user-attachments/assets/28ac10d0-48ba-4e55-a9f1-7ad8042a572d)
+
 
 
 В редакторі:
 
-![{1B870F3D-C5E8-43D8-828E-9B5A302375D1}](https://github.com/user-attachments/assets/02f13a8c-80ec-4c9e-bb70-c24305d1b9b4)
+![{EE751F37-093C-4A59-9713-60074D11874D}](https://github.com/user-attachments/assets/76e3712c-75a1-46bb-ad5b-2eb4343d9464)
+
 
