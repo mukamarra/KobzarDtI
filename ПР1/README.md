@@ -79,23 +79,23 @@
 
 Скріншот з гри
 
-![**Screenshot**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Screenshot_MozJPEG_100.jpeg)
-![**Screenshot**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Screenshot_MozJPEG_75.jpeg)
-![**Screenshot**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Screenshot_MozJPEG_50.jpeg)
+![**Screenshot**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Screenshot_MozJPEG_100.jpg)
+![**Screenshot**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Screenshot_MozJPEG_75.jpg)
+![**Screenshot**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Screenshot_MozJPEG_50.jpe)
 
 
 Фотографія
 
-![**Photo**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Photo_MozJPEG_100.jpeg)
-![**Photo**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Photo_MozJPEG_75.jpeg)
-![**Photo**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Photo_MozJPEG_50.jpeg)
+![**Photo**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Photo_MozJPEG_100.jpg)
+![**Photo**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Photo_MozJPEG_75.jpg)
+![**Photo**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Photo_MozJPEG_50.jpg)
 
 
 Зображення із текстом
 
-![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_MozJPEG_100.jpeg)
-![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_MozJPEG_75.jpeg)
-![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_MozJPEG_50.jpeg)
+![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_MozJPEG_100.jpg)
+![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_MozJPEG_75.jpg)
+![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_MozJPEG_50.jpg)
 
 
 **WebP (lossy)**
