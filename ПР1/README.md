@@ -117,7 +117,7 @@
 Зображення із текстом
 
 ![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_WebP_100.webp)
-![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_WebPG_75.webp)
+![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_WebP_75.webp)
 ![**Text**](https://github.com/mukamarra/KobzarDtI/blob/main/%D0%9F%D0%A01/images/Text_WebP_50.webp)
 
 
